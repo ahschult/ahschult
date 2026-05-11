@@ -16,7 +16,7 @@ Most of my active work lives on a self-hosted Gitea instance and is mirrored her
 
 **SwimDB** *(private — client data)* — Analytics platform for competitive swimming organizations. Three-layer medallion architecture in DuckDB and Parquet with a Polars/Python ETL pipeline. Delivers athlete performance tracking, national rankings comparisons, and development trend reporting to club clients. Replaced manual spreadsheet workflows with automated, queryable data infrastructure.
 
-**MAGI** *(private)* — Multi-agent LLM orchestration framework. Five independent model instances evaluate queries in parallel with strict information isolation; a sequential integrator synthesizes blind votes using configurable majority threshold, dual-safety veto logic, and high-confidence override. FastAPI backend with structured audit logging and full Docker Compose deployment.
+**[meridian](https://github.com/ahschult/meridian)** *(private)* — Real-time computer vision analytics system built in Rust. Ingests live and recorded video, runs an ML inference pipeline, and produces structured per-object metrics - all within a single binary using a data-driven ECS architecture.
 
 ---
 
