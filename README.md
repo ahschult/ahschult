@@ -1,6 +1,4 @@
-# Alex Schultze
-
-Data engineer and systems developer based in Calgary, AB. I build production-grade data pipelines, intelligence frameworks, and algorithmic trading infrastructure — primarily in **Rust** and **Python**.
+Data engineer and systems developer. I build production-grade data pipelines, intelligence frameworks, and algorithmic trading infrastructure — primarily in **Rust** and **Python**.
 
 Most of my active work lives on a self-hosted Gitea instance and is mirrored here. Private repos are noted where operational security or client data is a factor.
 
